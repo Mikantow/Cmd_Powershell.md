@@ -5,7 +5,7 @@ _**cp**_ : Copy-Item
 
 _**rm**_ : Remove-Item
 
-_**cd**_ : cd
+_**cd**_ : Set-Location
 
 _**mkdir**_ : New-Item
 
