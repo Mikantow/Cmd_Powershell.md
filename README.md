@@ -19,10 +19,10 @@ _**cat**_ : Get-Content
 
 Id     Duration CommandLine
   --     -------- -----------
-   1        0.003 Get-History
-   2        0.150 Get-Command
-   3        8.886 Get-Content
-   4        0.012 ls
-   5        0.026 Get-Content ./hello.txt
-   6        2.250 Set-Alias
+   1        0.003 Get-History  
+   2        0.150 Get-Command  
+   3        8.886 Get-Content  
+   4        0.012 ls  
+   5        0.026 Get-Content ./hello.txt  
+   6        2.250 Set-Alias  
 
